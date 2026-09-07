@@ -1,8 +1,7 @@
 
 #spotify oauth key, from https://developer.spotify.com/dashboard/applications
-client_id="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-client_secret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-
+client_id=spak_RHVYtOK77DbebBsXjyRBmlrEZchSKU7E
+client_secret=spak_RHVYtOK77DbebBsXjyRBmlrEZchSKU7E
 # Do keyboard equalizer animations
 DO_KEYBOARD=True
 
